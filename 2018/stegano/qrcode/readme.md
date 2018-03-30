@@ -6,7 +6,7 @@ Check the color information.
 
 ## QRCode :
 
-Nous avons QRCode en GIF ... il faut donc déjà récupérer l'ensemble des frames qui composent ce GIF
+Nous avons un QRCode en GIF ... il faut donc déjà récupérer l'ensemble des frames qui composent ce GIF
 
 Pour celà, nous utiliserons l'outil convert de la suite [Imagick](https://www.imagemagick.org/script/convert.php)
 
@@ -20,8 +20,8 @@ Avec un petit script bash nous déchiffrons tous les QRCodes.
 
 ```BASH
 #!/bin/bash
+
 i=1
-output="output.log"
 dir="images"
 declare -a list
 
