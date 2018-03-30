@@ -14,7 +14,7 @@ QR-Code:http://10.22.6.182/files/2018/flag.png
 scanned 1 barcode symbols from 1 images in 0.01 seconds
 ```
 
-Pour le chall, il faut ensuite récupérer l'image [flag.png](files/flag.png)
+Pour le chall, il faut ensuite récupérer l'image [flag.png](files/flag.png) qui se trouvait sur un serveur en interne au CTF.
 
 C'est encore un QRCode mais avec une taille beaucoup plus grande qui ne pouvait pas être sur le gobelet.
 
