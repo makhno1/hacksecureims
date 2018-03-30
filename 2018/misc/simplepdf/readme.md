@@ -11,7 +11,7 @@ Nous avons un fichier [PDF](files/final_7dce33b7bdd8c984926332bd5e903880.pdf) av
 
 Nous testons des choses assez simple tel que strings / binwalk / foremost sur le fichier sans rien trouver de particulier.
 
-Du coup, je me dis qu'il faut analyser le PDF avec un outil tel que pdf-parser 
+Du coup, je me dis qu'il faut analyser le PDF avec un outil tel que [pdf-parser](https://blog.didierstevens.com/programs/pdf-tools/)
 
 ```BASH
 pdf-parser final_7dce33b7bdd8c984926332bd5e903880.pdf 
