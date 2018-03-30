@@ -45,7 +45,7 @@ Nous vérifions le PDF extrait avec pdf-parser
 ```
 Notre intuition est juste, il faut retrouver les 5000 PDF embarqués les uns dans les autres comme les poupées russes :-)
 
-Rapidement en BASH [script](files/soluce.sh)
+Rapidement en BASH, nous faisons un [script](files/soluce.sh)
 
 
 ```BASH
