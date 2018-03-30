@@ -56,7 +56,7 @@ Du coup, nous avons deux possibilités :
 
 ## Password sur le gobelet
 
-Le gobelet est disponible ici [gobelet](files/)
+Le gobelet est disponible ici [gobelet](files/DVXF8jwWkAAv4b7.jpg)
 
 En lisant sur le gobelet la chaîne héxadécimale
 
