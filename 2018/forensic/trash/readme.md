@@ -6,7 +6,7 @@ Jean te demande de l'aider, il a voulu tester un ancien OS et est encore allé t
 
 ## Trash :
 
-Cela change très facile fait appel à la corbeille sous Windows XP, où sans pouvoir récupérer les fichiers nous pouvons voir les noms des fichiers
+Ce challenge très facile fait appel à la corbeille sous Windows XP, où sans pouvoir récupérer les fichiers nous pouvons voir les noms des fichiers
 
 Du coup en bash, cat ou strings sont nos amis :
 
