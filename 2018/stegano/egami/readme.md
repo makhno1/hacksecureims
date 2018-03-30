@@ -26,8 +26,8 @@ Nous nous apercevons qu'en lisant à partir de la fin nous voyons des headers de
 
 Donc nous avons affaire à une image PNG dont le code hexadécimal a été retourné :
 
-47 4e 50 89 => GNP.
-89 50 4e 47 => .PNG
+1. 47 4e 50 89 => GNP.
+2. 89 50 4e 47 => .PNG
 
 Il suffit de lire les octets à partir de la fin tout simplement.
 
