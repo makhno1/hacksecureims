@@ -7,8 +7,8 @@ Jean souhaitait associer les maths et la stéga, quelle drôle d'idée ?
 ## Einstein :
 
 Nous avons deux fichier dont les noms sont respectivement :
-1. c.png
-2. m.png
+1. [c.png](files/c.png)
+2. [m.png](files/m.png)
 
 Le titre du challenge et les deux images nous font de suite penser à la célèbre formule d'Einstein sur la relativité : E=MC<sup>2</sup>
 
