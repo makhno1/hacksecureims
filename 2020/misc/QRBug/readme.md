@@ -8,7 +8,7 @@ Jean devait automatiser la génération de QRCode, mais il semblerait qu'un bug 
 
 Nous avons un fichier [hsr_qrbug.png](files/hsr_qrbug.png) qui semble correspondre à une mosaïque de QRCode.
 
-Nous allons dans un premier temps essayer de découper l'ensemble des QRCodes avant de les lire ensuite. Dans un premier temps, on constate que l'image fait en dimension 8700*8700 et très vite on constate qu'un QRCode a une dimension de 87*87.
+Nous allons dans un premier temps essayer de découper l'ensemble des QRCodes avant de les lire ensuite. Dans un premier temps, on constate que l'image fait en dimension 8700x8700 et très vite on constate qu'un QRCode a une dimension de 87x87.
 ```Bash
 #!/bin/bash
 IMAGE="hsr_qrbug.png"
